@@ -1,9 +1,10 @@
 import './App.css';
 import PlayersList from './PlayersList';
+
 function App() {
-  return (
+  return (    
     <div className="App">
-      <PlayersList/>
+        <PlayersList/>
     </div>
   );
 }
